@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ertancaner
-- 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning html,css,php,go,kali.
 - 📫 ertanccaner@gmail.com
 
