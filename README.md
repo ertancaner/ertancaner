@@ -1,76 +1,85 @@
-# 👋 Merhaba, ben Ertan Caner!
+👋 Hello, I'm Ertan Caner!
+<p align="left"> <a href="https://github.com/ertancaner"> <img src="https://komarev.com/ghpvc/?username=ertancaner&label=Profile+Views&color=0e75b6&style=flat" alt="ertancaner" /> </a> </p>
 
-<p align="left">
-  <a href="https://github.com/ertancaner">
-    <img src="https://komarev.com/ghpvc/?username=ertancaner&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="ertancaner" />
-  </a>
-</p>
+I am a Cyber Security Researcher & Network Engineer, focused on developing defenses against modern threats, optimizing network infrastructures, and identifying security vulnerabilities. I am currently working as an IT Consultant at a professional firm.
 
-Ben, modern web teknolojileriyle kullanıcı dostu ve performanslı uygulamalar geliştirmeye odaklanmış bir **Bilgisayar Mühendisiyim**. Özellikle **React** ve **Next.js** ekosisteminde yenilikçi çözümler üretmekten keyif alıyorum.
+🕵️‍♂️ About Me
 
----
+🎓 Graduated with a degree in Computer Engineering.
 
-### 👨‍💻 Hakkımda
+🔐 I work on cybersecurity research, network engineering, and vulnerability analysis.
 
-- 🎓 Bilgisayar Mühendisliği mezunuyum.
-- 🚀 React ve Next.js kullanarak ölçeklenebilir ve interaktif web uygulamaları geliştiriyorum.
-- 💡 Temiz kod yazmaya, en iyi pratikleri takip etmeye ve sürekli yeni teknolojiler öğrenmeye inanıyorum.
-- 🌐 Frontend ve backend teknolojileri arasında köprü kurarak tam kapsamlı çözümler üretmeyi hedefliyorum.
+🛡️ Strong interest in Web Security & Penetration Testing.
 
----
+💻 Actively using both offensive and defensive security tools.
 
-### 🛠️ Teknolojiler ve Araçlar
+🛠️ Most Used Cyber Security Tools
+🔍 Pentest & Analysis
 
-#### Frontend
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+Burp Suite
 
-#### Backend & Veritabanı
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-</p>
+Nmap
 
----
+Nikto
 
-### 📊 GitHub İstatistiklerim
+OWASP ZAP
 
-<p align="center">
-  <a href="https://github.com/ertancaner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ertancaner&show_icons=true&locale=tr&theme=radical" alt="ertancaner" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ertancaner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertancaner&show_icons=true&locale=tr&layout=compact&theme=radical" alt="ertancaner" />
-  </a>
-</p>
+SQLmap
 
----
+Hydra
 
-### 📫 Bana Ulaşın
+Metasploit Framework
 
-<p align="left">
-  <a href="https://ertancanereskici.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" />
-  </a>
-  <a href="https://www.linkedin.com/in/ertan-caner-eskici-79298320a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/ertancanereskici" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="mailto:ertanccaner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
+🌐 Network & Traffic Analysis
+
+Wireshark
+
+Tcpdump
+
+Netcat
+
+Aircrack-ng
+
+OpenVAS
+
+General Kali Linux tools
+
+🧰 Other Security Tools
+
+Hashcat
+
+John the Ripper
+
+Volatility
+
+Autopsy
+
+💻 Programming & Scripting Languages
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </p>
+
+I frequently use these languages for automation, log analysis, and developing simple exploits.
+🚀 I enjoy writing fast scripts during security testing.
+
+🌐 Areas of Expertise
+
+Web Security & Penetration Testing
+
+Network Security
+
+Vulnerability Assessment
+
+IDS/IPS Configuration
+
+Firewall Management
+
+System & Log Analysis
+
+Fundamentals of Threat Intelligence
+
+Zero Trust Approaches
+
+🔐 "Security is not a feature, it's a necessity."
+📊 GitHub Stats
+<p align="center"> <a href="https://github.com/ertancaner"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ertancaner&show_icons=true&locale=en&theme=radical" alt="stats"/> </a> </p> <p align="center"> <a href="https://github.com/ertancaner"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertancaner&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs"/> </a> </p>
+📫 Contact Me
+<p align="left"> <a href="https://ertancanereskici.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ertan-caner-eskici-79298320a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/ertancanereskici" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:ertanccaner@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
