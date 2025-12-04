@@ -1,4 +1,7 @@
-👋 Hello, I'm Ertan Caner!
+<p align="center">
+  <img src="github-header-banner.png" alt="Ertan Caner Eskici Header Banner" />
+</p>
+
 <p align="left"> <a href="https://github.com/ertancaner"> <img src="https://komarev.com/ghpvc/?username=ertancaner&label=Profile+Views&color=0e75b6&style=flat" alt="ertancaner" /> </a> </p>
 
 I am a Cyber Security Researcher & Network Engineer, focused on developing defenses against modern threats, optimizing network infrastructures, and identifying security vulnerabilities. I am currently working as an IT Consultant at a professional firm.
