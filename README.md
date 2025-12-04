@@ -84,11 +84,15 @@ Zero Trust Approaches
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertancaner&show_icons=true&theme=radical&hide_border=true" alt="Ertan Caner Eskici’s GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertancaner&layout=compact&theme=radical&hide_border=true" alt="Top languages by Ertan Caner Eskici" />
+  <a href="https://github.com/ertancaner">
+    <img src="https://github-readme-stats.vercel.app/api?username=ertancaner&theme=radical&show_icons=true&hide_border=true" 
+         alt="GitHub Stats" height="180">
+  </a>
+  
+  <a href="https://github.com/ertancaner">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertancaner&layout=compact&theme=radical&hide_border=true"
+         alt="Top Languages" height="180">
+  </a>
 </p>
 
 
