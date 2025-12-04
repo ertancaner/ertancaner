@@ -85,13 +85,13 @@ Zero Trust Approaches
 
 <p align="center">
   <a href="https://github.com/ertancaner">
-    <img src="https://github-readme-stats.vercel.app/api?username=ertancaner&theme=radical&show_icons=true&hide_border=true" 
-         alt="GitHub Stats" height="180">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ertancaner&theme=radical&show_icons=true&hide_border=true" height="180" />
+
   </a>
   
   <a href="https://github.com/ertancaner">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertancaner&layout=compact&theme=radical&hide_border=true"
-         alt="Top Languages" height="180">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ertancaner&layout=compact&theme=radical&hide_border=true" height="180" />
+
   </a>
 </p>
 
